@@ -18,7 +18,7 @@ This project involves building a convolutional neural network (CNN) to recognize
 The goal of this project is to create a machine learning model capable of recognizing common objects in images. A convolutional neural network (CNN) is used to train the model on a dataset of labeled images, enabling it to accurately classify objects into categories such as "phone," "headphones," and "computer."
 
 ## Dataset
-
+https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 
 ## Model Architecture
 
