@@ -1,5 +1,5 @@
 # Image-Classification-Using-Convolutional-Neural-Networks
-# Object Detection Model for Everyday Objects Using Convolutional Neural Networks
+
 
 This project involves building a convolutional neural network (CNN) to recognize and classify everyday objects such as phones, headphones, and computers. The model is trained to identify various objects from images and classify them into predefined categories.
 
